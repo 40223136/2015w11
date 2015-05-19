@@ -5,7 +5,6 @@
    * [Q&A](q&a.md)
 * [新產品開發流程](_新產品開發流程.md)
 * [第四週](di_si_zhou.md)
-* [第六週](di_liu_zhou.md)
 * [第七週](di_qi_zhou.md)
 * [小組心得](_協同上機考試.md)
    * [40223141](product_owner.md)
